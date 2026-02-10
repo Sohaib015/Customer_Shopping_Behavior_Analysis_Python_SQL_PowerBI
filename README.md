@@ -66,6 +66,8 @@ Key features include:
  - Subscription and shipping behavior comparisons
  - Drill-down filters for deeper trend exploration
 
+![Dashboard Overview](https://github.com/Sohaib015/Customer_Shopping_Behavior_Analysis_Python_SQL_PowerBI/blob/main/Power%20BI%20Dashboard.png)
+
 # Key Results & Insights
 
  - Male customers accounted for approximately 68% of total revenue contribution
