@@ -65,6 +65,7 @@ Key features include:
  - Customer segmentation visuals
  - Subscription and shipping behavior comparisons
  - Drill-down filters for deeper trend exploration
+![Dashboard Preview]('/Users/sohaibhassan/Library/CloudStorage/GoogleDrive-sohaibhassan140344@gmail.com/My Drive/Data Analyst/Final Portfolio Project /Power BI Dashboard.png')
 
 # Key Results & Insights
 
